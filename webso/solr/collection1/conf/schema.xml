@@ -206,7 +206,10 @@
    <dynamicField name="*_ls" type="long"   indexed="true"  stored="true"  multiValued="true"/>
    <dynamicField name="*_t"  type="text_general"    indexed="true"  stored="true"/>
    <dynamicField name="*_txt" type="text_general"   indexed="true"  stored="true" multiValued="true"/>
-   <dynamicField name="*_en"  type="text_en"    indexed="true"  stored="true" multiValued="true"/>
+   <!-- @WEBSO -->
+   <dynamicField name="*_en"  type="text_en"    indexed="true"  stored="true" multiValued="false"/>
+   <!-- @WEBSO -->
+   <dynamicField name="*_fr"  type="text_fr"    indexed="true"  stored="true" multiValued="false"/>
    <dynamicField name="*_b"  type="boolean" indexed="true" stored="true"/>
    <dynamicField name="*_bs" type="boolean" indexed="true" stored="true"  multiValued="true"/>
    <dynamicField name="*_f"  type="float"  indexed="true"  stored="true"/>

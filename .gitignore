@@ -1,0 +1,5 @@
+.tmp
+.idea/
+webso/solr/collection1/data/
+webso/logs/solr.log
+webso/logs/
