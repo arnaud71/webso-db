@@ -950,7 +950,7 @@
        <str name="hl.simple.post">&lt;/b&gt;</str>
        <str name="f.content_en.hl.snippets">3</str>
        <str name="f.content_en.hl.fragsize">200</str>
-       <str name="f.content_en.hl.alternateField">title_en</str>
+       <str name="f.content_en.hl.alternateField">content_en</str>
        <str name="f.content_en.hl.maxAlternateFieldLength">750</str>
 
        <!-- Spell checking defaults -->
