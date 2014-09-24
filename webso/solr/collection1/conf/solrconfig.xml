@@ -952,6 +952,9 @@
        <str name="facet.query">date_dt:[NOW-7DAY TO NOW]</str>
        <str name="facet.query">date_dt:[NOW-30DAY TO NOW]</str>
 
+       <str name="facet.query">read_b:true</str>
+
+
          <!-- Highlighting defaults -->
        <str name="hl">on</str>
        <str name="hl.fl">content_en</str>
