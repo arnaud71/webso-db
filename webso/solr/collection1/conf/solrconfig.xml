@@ -953,6 +953,8 @@
        <str name="facet.query">date_dt:[NOW-30DAY TO NOW]</str>
 
        <str name="facet.query">read_b:true</str>
+       <str name="facet.query">type_s:validation</str>
+
 
 
          <!-- Highlighting defaults -->
