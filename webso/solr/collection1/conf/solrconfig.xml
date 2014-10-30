@@ -954,7 +954,8 @@
 
        <str name="facet.query">read_b:true</str>
        <str name="facet.query">type_s:validation</str>
-
+       <str name="facet.query">waiting_b:true</str>
+       <str name="facet.query">waiting_b:false</str>
 
 
          <!-- Highlighting defaults -->
